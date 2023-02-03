@@ -2,9 +2,9 @@ package com.techreturners.cats;
 
 abstract class Type implements Cat {
 
-    int height;//altura cm
-    String typeCat; //domestico or wild
-    boolean sleep; // dormir or acordado
+    int height;
+    String typeCat;
+    boolean sleep;
 
 
     public Type() {

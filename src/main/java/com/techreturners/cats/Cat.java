@@ -1,7 +1,7 @@
 package com.techreturners.cats;
 
 interface Cat {
-    String eat(); //for lionCats || CheetahCat
+    String eat();
 
     boolean isAsleep();
 
